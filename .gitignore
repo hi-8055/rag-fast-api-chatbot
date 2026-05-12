@@ -12,7 +12,7 @@ venv/
 # OS
 .DS_Store
 
-# uploads (optional)
+# uploads
 app/uploads/
 
 # logs
